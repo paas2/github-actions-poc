@@ -6,3 +6,6 @@ Workflows for NodeJS application - [rewanthtammana/hello-world](https://github.c
 
 Centralized workflows for reusability - [rewanthtammana/centralized-workflows](https://github.com/rewanthtammana/centralized-workflows)
 
+## Fun fact  🚀
+
+This will go live after an year. Don't invest time much time on edge cases & complex POCs, etc.
